@@ -1,0 +1,87 @@
+{
+  "status": 200,
+  "data": {
+    "price": {
+      "quoteSourceName": "Delayed Quote",
+      "regularMarketOpen": {
+        "raw": 83300,
+        "fmt": "83,300.00"
+      },
+      "averageDailyVolume3Month": {
+        "raw": 23438040,
+        "fmt": "23.44M",
+        "longFmt": "23,438,040"
+      },
+      "exchange": "KSC",
+      "regularMarketTime": 1610087431,
+      "volume24Hr": {},
+      "regularMarketDayHigh": {
+        "raw": 90000,
+        "fmt": "90,000.00"
+      },
+      "shortName": "SamsungElec",
+      "averageDailyVolume10Day": {
+        "raw": 34746911,
+        "fmt": "34.75M",
+        "longFmt": "34,746,911"
+      },
+      "longName": "Samsung Electronics Co., Ltd.",
+      "regularMarketChange": {
+        "raw": 5900,
+        "fmt": "5,900.00"
+      },
+      "currencySymbol": "₩",
+      "regularMarketPreviousClose": {
+        "raw": 82900,
+        "fmt": "82,900.00"
+      },
+      "preMarketPrice": {},
+      "exchangeDataDelayedBy": 20,
+      "toCurrency": null,
+      "postMarketChange": {},
+      "postMarketPrice": {},
+      "exchangeName": "KSE",
+      "preMarketChange": {},
+      "circulatingSupply": {},
+      "regularMarketDayLow": {
+        "raw": 83000,
+        "fmt": "83,000.00"
+      },
+      "priceHint": {
+        "raw": 2,
+        "fmt": "2",
+        "longFmt": "2"
+      },
+      "currency": "KRW",
+      "regularMarketPrice": {
+        "raw": 88800,
+        "fmt": "88,800.00"
+      },
+      "regularMarketVolume": {
+        "raw": 57337910,
+        "fmt": "57.34M",
+        "longFmt": "57,337,910.00"
+      },
+      "lastMarket": null,
+      "regularMarketSource": "DELAYED",
+      "openInterest": {},
+      "marketState": "CLOSED",
+      "underlyingSymbol": null,
+      "marketCap": {
+        "raw": 595608213651456,
+        "fmt": "595.61T",
+        "longFmt": "595,608,213,651,456.00"
+      },
+      "quoteType": "EQUITY",
+      "volumeAllCurrencies": {},
+      "strikePrice": {},
+      "symbol": "005930.KS",
+      "maxAge": 1,
+      "fromCurrency": null,
+      "regularMarketChangePercent": {
+        "raw": 0.071170084,
+        "fmt": "7.12%"
+      }
+    }
+  }
+}
